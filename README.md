@@ -7,7 +7,7 @@
 ## 🧑‍💻 About Me
 🎯 Results-driven Software Engineer passionate about **backend development** and **technical problem-solving**.  
 💡 I create high-performance applications, optimize systems, and write clean, scalable code.  
-📌 Experienced in **Java development**, **Database Management**, and **API Integration**.
+📌 Experienced in **Java development**, **database management**, and **API integration**.
 
 ---
 
@@ -20,6 +20,14 @@
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
 | **Data Visualization** | ![MS Excel](https://img.shields.io/badge/MS_Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black) |
 | **Coursework** | ![OOPS](https://img.shields.io/badge/OOPS-%23007396.svg?style=for-the-badge&logo=java&logoColor=white) ![DSA](https://img.shields.io/badge/DSA-%2300BFFF.svg?style=for-the-badge&logo=codeforces&logoColor=white) ![DBMS](https://img.shields.io/badge/DBMS-%23FF6F00.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![OS](https://img.shields.io/badge/OS-%234CAF50.svg?style=for-the-badge&logo=linux&logoColor=white) |
+
+---
+
+## 📊 Languages Usage (Across My GitHub Repositories)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shailendra17103&layout=donut&theme=react&hide_border=true&langs_count=8&hide_progress=false&animation=true" alt="Top Languages Used" />
+</p>
 
 ---
 
