@@ -32,7 +32,7 @@
 ---
 
 ## 🏆 Achievements & Activities
-- **LeetCode:** Solved **250+ problems** 🧠  
+- **LeetCode:** Solved **350+ problems** 🧠  
 - **Certifications:** MySQL, PostgreSQL (Scaler Learning & Simplilearn Academy).  
 - **Events:** Hackathon participation, coding event coordination, and tech mentoring.
 
