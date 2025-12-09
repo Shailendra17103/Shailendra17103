@@ -26,13 +26,16 @@
 ## 📊 Languages Usage (Across My GitHub Repositories)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shailendra17103&layout=donut&theme=react&hide_border=true&langs_count=8&hide_progress=false&animation=true" alt="Top Languages Used" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shailendra17103&layout=compact&theme=react&hide_border=true&langs_count=8"
+    alt="Top Languages Used"
+  />
 </p>
 
 ---
 
 ## 🏆 Achievements & Activities
-- **LeetCode:** Solved **350+ problems** 🧠  
+- **LeetCode:** Solved **400+ problems** 🧠  
 - **Certifications:** MySQL, PostgreSQL (Scaler Learning & Simplilearn Academy).  
 - **Events:** Hackathon participation, coding event coordination, and tech mentoring.
 
