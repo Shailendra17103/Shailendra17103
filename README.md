@@ -5,9 +5,9 @@
 ---
 
 ## 🧑‍💻 About Me
-🎯 Results-driven Software Engineer passionate about **backend development** and **technical problem-solving**.  
+🎯 Results-driven Software Engineer passionate about <b>backend development</b> and <b>technical problem-solving</b>.  
 💡 I create high-performance applications, optimize systems, and write clean, scalable code.  
-📌 Experienced in **Java development**, **database management**, and **API integration**.
+📌 Experienced in <b>Java development</b>, <b>database management</b>, and <b>API integration</b>.
 
 ---
 
@@ -27,7 +27,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shailendra17103&layout=compact&theme=react&hide_border=true&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shailendra17103&layout=compact&theme=react&hide_border=true&langs_count=8" 
     alt="Top Languages Used"
   />
 </p>
@@ -35,9 +35,9 @@
 ---
 
 ## 🏆 Achievements & Activities
-- **LeetCode:** Solved **400+ problems** 🧠  
-- **Certifications:** MySQL, PostgreSQL (Scaler Learning & Simplilearn Academy).  
-- **Events:** Hackathon participation, coding event coordination, and tech mentoring.
+- 🧠 Solved **400+ LeetCode problems**  
+- 📜 Certifications in **MySQL** & **PostgreSQL** (Scaler Learning & Simplilearn Academy)  
+- 🛠 Hackathon participation, coding event coordination, and tech mentoring  
 
 ---
 
@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  💡 *"Code is like humor. When you have to explain it, it’s bad."*  
+  💡 <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
