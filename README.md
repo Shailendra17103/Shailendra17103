@@ -45,7 +45,7 @@
 <p align="center">
   <a href="mailto:shailendrabhushan17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="tel:+918273864335"><img src="https://img.shields.io/badge/Phone-%2300C853.svg?style=for-the-badge&logo=phone&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/shailendra-bhushan-rai-580712250/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Shailendra17103" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Shailendra17/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000.svg?style=for-the-badge&logo=leetcode&logoColor=yellow" /></a>
 </p>
