@@ -1,25 +1,105 @@
-<!-- Profile Header -->
+<!-- ================= PROFILE HEADER ================= -->
 <h1 align="center">👋 Hi, I'm Shailendra Bhushan Rai</h1>
-<h3 align="center">🚀 Backend Developer | 💻 Java Enthusiast | 📊 Database Specialist</h3>
+<h3 align="center">
+📊 Data Scientist | 🤖 AI & Machine Learning Enthusiast | 📈 Data Analyst
+</h3>
 
 ---
 
 ## 🧑‍💻 About Me
-🎯 Results-driven Software Engineer passionate about <b>backend development</b> and <b>technical problem-solving</b>.  
-💡 I create high-performance applications, optimize systems, and write clean, scalable code.  
-📌 Experienced in <b>Java development</b>, <b>database management</b>, and <b>API integration</b>.
+🎯 Final-year **B.Tech Computer Science student (2026)** with a strong focus on  
+<b>Data Science, Artificial Intelligence, and Machine Learning</b>.  
+
+💡 I work across the **complete data lifecycle** — data cleaning, exploratory data analysis (EDA),  
+feature engineering, model building, evaluation, and explainability.  
+
+📌 Hands-on experience in **ML modeling, backend logic, databases, and analytical problem-solving**,  
+with a growing interest in **production-ready AI systems and data-driven decision making**.
 
 ---
 
 ## 💻 Core Skills & Technologies
 
-| **Category** | **Skills** |
-|--------------|------------|
-| **Languages** | ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
-| **Frameworks & Tech** | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI_API-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Data Visualization** | ![MS Excel](https://img.shields.io/badge/MS_Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black) |
-| **Coursework** | ![OOPS](https://img.shields.io/badge/OOPS-%23007396.svg?style=for-the-badge&logo=java&logoColor=white) ![DSA](https://img.shields.io/badge/DSA-%2300BFFF.svg?style=for-the-badge&logo=codeforces&logoColor=white) ![DBMS](https://img.shields.io/badge/DBMS-%23FF6F00.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![OS](https://img.shields.io/badge/OS-%234CAF50.svg?style=for-the-badge&logo=linux&logoColor=white) |
+### 🔹 Programming Languages
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+---
+
+### 🔹 Machine Learning, AI & GenAI
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA0000.svg?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B.svg?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/SHAP-Explainability-blue?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
+
+**Concepts:**  
+Supervised Learning, Classification, Regression, Gradient Boosting,  
+Feature Engineering, Cross-Validation, Hyperparameter Tuning, Explainable AI,  
+Prompt Engineering, Applied Generative AI
+
+---
+
+### 🔹 Data Analysis & Visualization
+![Excel](https://img.shields.io/badge/MS_Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+![EDA](https://img.shields.io/badge/EDA-Exploratory_Data_Analysis-orange?style=for-the-badge)
+
+---
+
+### 🔹 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 🔹 Frameworks, Tools & Platforms
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)
+
+---
+
+### 🔹 Mathematics & Core Computer Science
+![Statistics](https://img.shields.io/badge/Statistics-blue?style=for-the-badge)
+![Probability](https://img.shields.io/badge/Probability-purple?style=for-the-badge)
+![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-green?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-%2300BFFF.svg?style=for-the-badge)
+![OOPS](https://img.shields.io/badge/OOPS-%23007396.svg?style=for-the-badge)
+![OS](https://img.shields.io/badge/OS-%234CAF50.svg?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-%23FF6F00.svg?style=for-the-badge)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Revenue-Aware Customer Churn Intelligence System
+- Built an end-to-end churn prediction pipeline using **LightGBM**
+- Achieved **~0.96 ROC-AUC** with leakage-free time window engineering
+- Ranked customers by **expected revenue risk** (churn probability × revenue)
+- Applied **SHAP** for explainable and business-aligned insights
+
+🔗 GitHub:  
+https://github.com/Shailendra17103/Churn-Intelligence-System
+
+---
+
+### 🔹 AI-Based Financial Fraud Detection System
+- Analyzed **284K+ transaction records** using **XGBoost**
+- Performed feature engineering and handled **severe class imbalance**
+- Optimized models using **precision–recall trade-offs**
+- Built a **Streamlit dashboard** for real-time fraud risk monitoring
+
+🔗 GitHub:  
+https://github.com/Shailendra17103/AI-Based-Financial-Fraud-Detection-System
 
 ---
 
@@ -34,10 +114,11 @@
 
 ---
 
-## 🏆 Achievements & Activities
-- 🧠 Solved **400+ LeetCode problems**  
-- 📜 Certifications in **MySQL** & **PostgreSQL** (Scaler Learning & Simplilearn Academy)  
-- 🛠 Hackathon participation, coding event coordination, and tech mentoring  
+## 🏆 Achievements & Certifications
+- 🧠 Solved **500+ LeetCode problems** | **5⭐ SQL Coder** on HackerRank  
+- 📜 Oracle Certified **Data Platform Foundations Associate** & **Generative AI** (2025)  
+- 📜 Certified in **MySQL and PostgreSQL** (Scaler, Simplilearn Academy)  
+- 🛠 Hackathons, analytics workshops, coding events, and peer mentoring  
 
 ---
 
@@ -53,5 +134,5 @@
 ---
 
 <p align="center">
-  💡 <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  💡 <i>"Turning data into insight, and insight into impact."</i>
 </p>
